@@ -9,3 +9,6 @@
   * ```deta login``` to connnect the cli to the cloud
   * ```deta new``` to create a new deta micro
   * ```deta deploy```
+
+## Other
+  * includes a jupyter notebookt explaining he http request and parsing the data. 
