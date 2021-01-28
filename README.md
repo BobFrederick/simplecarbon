@@ -11,4 +11,4 @@
   * ```deta deploy```
 
 ## Other
-  * includes a jupyter notebookt explaining he http request and parsing the data. 
+  * includes a jupyter notebook explaining he http request and parsing the data. 
